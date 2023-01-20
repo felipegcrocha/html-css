@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+body {
+    background-color: rgba(0, 0, 0, 0.89);
+    font-family: Montserrat;
+    text-align: center;
+}
+
+h1 {
+    color: rgba(245, 66, 104, 0.897);
+}
+
+p {
+    color: rgb(211, 211, 211);
+}
+
+a {
+    color: rgb(211, 211, 211);
+}

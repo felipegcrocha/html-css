@@ -1,0 +1,20 @@
+@charset "UTF-8";
+
+body {
+    background-color: lightsteelblue;
+    font-family: Montserrat;
+    font-size: 20px;
+}
+
+h1 {
+    color: black;
+    background-color: rgb(113, 153, 153);
+}
+
+h2 {
+    color: gray;
+}
+
+p {
+    text-align: justify;
+}

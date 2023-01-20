@@ -1,0 +1,15 @@
+{
+    "workbench.activityBar.iconClickBehavior": "toggle",
+    "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {
+        "statusBar.background": "#333",
+        "statusBar.foreground": "#fff",
+        "statusBar.noFolderBackground": "#333",
+        "statusBar.noFolderForeground": "#fff"
+    },
+    "workbench.colorTheme": "Vision (colorblind) (rainglow)",
+    "workbench.editor.decorations.colors": true,
+    "workbench.preferredDarkColorTheme": "Vision (colorblind) (rainglow)",
+    "workbench.tree.renderIndentGuides": "onHover",
+    "breadcrumbs.enabled": true
+}
